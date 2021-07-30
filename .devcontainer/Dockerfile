@@ -1,0 +1,1 @@
+FROM aconcavy/workspace-latex
