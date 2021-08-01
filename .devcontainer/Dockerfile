@@ -1,1 +1,1 @@
-FROM aconcavy/workspace-latex
+FROM aconcavy/devcontainer-latex
