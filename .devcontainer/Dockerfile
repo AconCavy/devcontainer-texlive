@@ -1,1 +1,1 @@
-FROM aconcavy/devcontainer-latex
+FROM devcontainer-texlive
